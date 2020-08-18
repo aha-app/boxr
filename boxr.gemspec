@@ -30,7 +30,7 @@ Gem::Specification.new do |spec|
 
   spec.add_runtime_dependency "multi_json", "~> 1.0"
   spec.add_runtime_dependency "httpclient", "~> 2.5"
-  spec.add_runtime_dependency "hashie", "~> 2.1"
+  spec.add_runtime_dependency "hashie", "~> 3.6"
   spec.add_runtime_dependency "addressable", "~> 2.3"
   spec.add_runtime_dependency "jwt", "~> 1.4"
 end
